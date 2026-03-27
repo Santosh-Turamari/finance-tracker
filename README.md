@@ -36,6 +36,12 @@ A modern, feature-rich personal finance tracking web application built with Reac
 ### Setup
 
 1. Clone the repository
-```bash
 git clone https://github.com/YOUR_USERNAME/finance-tracker.git
 cd finance-tracker
+
+2. Install dependencies
+npm install
+
+3. Start the development server
+npm start
+Open http://localhost:3000 to view it in your browser
